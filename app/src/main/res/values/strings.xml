@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Quirky Motivation App</string>
+    <string name="app_name">InspireMe</string>
     <string name="button_label">Click for Motivation</string>
 
     <string-array name="motivational_quotes">
+        <item>Be yourself</item>
         <item>The best way to get started is to quit talking and begin doing.</item>
         <item>The mind is everything. What you think you become.</item>
         <item>Eighty percent of success is showing up.</item>
