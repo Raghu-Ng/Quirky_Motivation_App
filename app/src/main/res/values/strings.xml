@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quirky Motivation App</string>
+    <string name="button_label">Click for Motivation</string>
+
+    <string-array name="motivational_quotes">
+        <item>The best way to get started is to quit talking and begin doing.</item>
+        <item>The mind is everything. What you think you become.</item>
+        <item>Eighty percent of success is showing up.</item>
+        <item>Strive not to be a success, but rather to be of value.</item>
+        <item>I attribute my success to this: I never gave or took any excuse.</item>
+        <item>The only way to do great work is to love what you do.</item>
+        <item>Believe you can and you are halfway there.</item>
+        <item>Don\'t worry if plan A fails, there are 25 more letters in the alphabet.</item>
+        <item>I am not lazy, I am on energy saving mode.</item>
+        <item>Life is short. Smile while you still have teeth.</item>
+        <item>If you think you are too small to make a difference, try sleeping with a mosquito.</item>
+    </string-array>
+</resources>

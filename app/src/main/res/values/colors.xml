@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="secondaryColor">#03DAC6</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8E8E93</color>
+    
+    <!-- New Colors for UI Update -->
+    <color name="accent_yellow">#FDD835</color>
+    <color name="accent_yellow_dark">#FBC02D</color>
+    <color name="share_button_bg">#F0E6C8</color> <!-- Light beige/yellowish for share button bg -->
+    <color name="forest_green_dark">#1B3B36</color>
+    <color name="forest_green_light">#2E5E55</color>
+    <color name="overlay_black_50">#80000000</color>
+</resources>
